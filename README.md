@@ -1,4 +1,7 @@
 # myapp
+Example based on this video:
+https://www.youtube.com/watch?v=Wy9q22isx3U
+
 
 ## Project setup
 ```
