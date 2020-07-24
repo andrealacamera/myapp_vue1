@@ -1,7 +1,6 @@
-# myapp
-Example based on this video:
-https://www.youtube.com/watch?v=Wy9q22isx3U
+# myapp_vue1
 
+TODOLIST example based on [this](https://www.youtube.com/watch?v=Wy9q22isx3U) crash course.
 
 ## Project setup
 ```
